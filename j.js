@@ -4,7 +4,7 @@
 
 // Deadline Date
 const deadline = new Date(
-"September 20, 2026 00:00:00"
+"September 30, 2026 00:00:00"
 ).getTime();
 
 
